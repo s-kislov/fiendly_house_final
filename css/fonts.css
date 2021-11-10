@@ -1,0 +1,43 @@
+@font-face {
+  font-family: 'Comfortaa';
+  src: url('../font/Comfortaa-Light.eot');
+  src: url('../font/Comfortaa-Light.eot?#iefix') format('embedded-opentype'),
+      url('../font/Comfortaa-Light.woff2') format('woff2'),
+      url('../font/Comfortaa-Light.woff') format('woff'),
+      url('../font/Comfortaa-Light.ttf') format('truetype');
+  font-style: normal;
+  font-weight: normal;
+}
+
+@font-face {
+  font-family: 'Comfortaa';
+  src: url('../font/Comfortaa-Regular.eot');
+  src: url('../font/Comfortaa-Regular.eot?#iefix') format('embedded-opentype'),
+      url('../font/Comfortaa-Regular.woff2') format('woff2'),
+      url('../font/Comfortaa-Regular.woff') format('woff'),
+      url('../font/Comfortaa-Regular.ttf') format('truetype');
+  font-style: normal;
+  font-weight: normal;
+}
+
+@font-face {
+  font-family: 'Helvetica';
+  src: url('../font/HelveticaNeueCyr-Light.eot');
+  src: url('../font/HelveticaNeueCyr-Light.eot?#iefix') format('embedded-opentype'),
+      url('../font/HelveticaNeueCyr-Light.woff2') format('woff2'),
+      url('../font/HelveticaNeueCyr-Light.woff') format('woff'),
+      url('../font/HelveticaNeueCyr-Light.ttf') format('truetype');
+  font-style: normal;
+  font-weight: normal;
+}
+
+@font-face {
+  font-family: 'Helvetica';
+  src: url('../font/HelveticaNeueCyr-Medium.eot');
+  src: url('../font/HelveticaNeueCyr-Medium.eot?#iefix') format('embedded-opentype'),
+      url('../font/HelveticaNeueCyr-Medium.woff2') format('woff2'),
+      url('../font/HelveticaNeueCyr-Medium.woff') format('woff'),
+      url('../font/HelveticaNeueCyr-Medium.ttf') format('truetype');
+  font-style: normal;
+  font-weight: normal;
+}

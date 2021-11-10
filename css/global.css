@@ -1,0 +1,86 @@
+html {
+  position: relative;
+  box-sizing: border-box;
+}
+
+*,
+*::before,
+*::after {
+  box-sizing: border-box;
+}
+
+body {
+  min-width: 320px;
+  min-height: 100vh;
+
+  font-family: 'Helvetica', sans-serif;
+  font-weight: 400;
+  
+  font-size: 20px;
+  line-height: 30px;
+  background-color: #fff;
+  color: #282626;
+
+  padding-bottom: 100px;
+}
+
+img {
+  max-width: 100%;
+  height: auto;
+}
+
+button {
+  cursor: pointer;
+}
+
+a {
+  text-decoration: none;
+  color: inherit;
+}
+
+ul {
+  list-style: none;
+  padding: 0;
+  margin: 0;
+}
+
+h1,
+h2,
+h3,
+ul,
+p,
+figure,
+fieldset {
+  margin: 0;
+}
+
+iframe {
+  border: none;
+}
+
+.visually-hidden {
+  position: absolute !important;
+  clip: rect(1px 1px 1px 1px);
+  /* IE6, IE7 */
+  clip: rect(1px, 1px, 1px, 1px);
+  padding: 0 !important;
+  border: 0 !important;
+  height: 1px !important;
+  width: 1px !important;
+  overflow: hidden;
+}
+section {
+  max-width: 1440px;
+  padding: 50px 0;
+  margin: 0 auto;
+}
+
+.container {
+  max-width: 1240px; /* +60px от нужного размера */
+  padding: 30px;
+  margin: 0 auto;
+}
+
+label {
+  cursor: pointer;
+}

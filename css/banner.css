@@ -1,0 +1,60 @@
+.banner__container {
+  display: flex;
+  align-items: center;
+  flex-wrap: wrap;
+}
+
+.banner__text {
+  width: 380px;
+}
+
+.banner__animal-name {
+  font-family: Comfortaa;
+  font-size: 3em;
+  line-height: 3em;
+  font-weight: 400;
+  color: #FF8A00;
+  transform: translateY(-50px);
+}
+
+.banner__animal_subtitle {
+  font-family: Comfortaa;
+  font-size: 2em;
+  line-height: 1.5em;
+  font-weight: 300;
+  transform: translateY(-100px);
+}
+
+.banner__main-item {
+  display: flex;
+  align-items: center;
+  margin-bottom: 30px;
+}
+
+.banner__main-item-text {
+  margin-left: 20px;
+  font-family: Helvetica;
+  font-weight: 400;
+  font-size: 1em;
+  line-height: 26px;
+}
+
+.banner__button {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  width: 180px;
+  font-family: Helvetica;
+  font-weight: 550;
+  font-size: 0.7em;
+  line-height: 22px;
+  color: #FF8A00;
+  text-align: center;
+  text-transform: uppercase;
+  transform: translate(100px, -160px);
+}
+
+.banner__button-img {
+  margin-bottom: 17px;
+  width: 100px;
+}

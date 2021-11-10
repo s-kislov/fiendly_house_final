@@ -1,0 +1,25 @@
+.header__container {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.header__logo-block {
+  text-align: center;
+}
+
+.header__phone {
+  font-weight: 550;
+  display: flex;
+  justify-content: end;
+}
+
+.header__phone::before {
+  content: "";
+  display: inline-flex;
+  margin-right: 17px;
+  width: 24px;
+  height: 24px;
+  background-image: url("../img/call.svg");
+  background-repeat: no-repeat;
+}
