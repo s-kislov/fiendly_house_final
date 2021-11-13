@@ -6,7 +6,7 @@
       url('../font/Comfortaa-Light.woff') format('woff'),
       url('../font/Comfortaa-Light.ttf') format('truetype');
   font-style: normal;
-  font-weight: normal;
+  font-weight: 300;
 }
 
 @font-face {
@@ -17,7 +17,7 @@
       url('../font/Comfortaa-Regular.woff') format('woff'),
       url('../font/Comfortaa-Regular.ttf') format('truetype');
   font-style: normal;
-  font-weight: normal;
+  font-weight: 400;
 }
 
 @font-face {
@@ -28,7 +28,7 @@
       url('../font/HelveticaNeueCyr-Light.woff') format('woff'),
       url('../font/HelveticaNeueCyr-Light.ttf') format('truetype');
   font-style: normal;
-  font-weight: normal;
+  font-weight: 400;
 }
 
 @font-face {
@@ -39,5 +39,5 @@
       url('../font/HelveticaNeueCyr-Medium.woff') format('woff'),
       url('../font/HelveticaNeueCyr-Medium.ttf') format('truetype');
   font-style: normal;
-  font-weight: normal;
+  font-weight: 550;
 }
